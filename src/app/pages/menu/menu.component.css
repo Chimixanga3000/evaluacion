@@ -1,7 +1,7 @@
 /* Estilo para la lista de pestañas */
 .nav-tabs {
     display: flex;
-    justify-content: center;
+    justify-content: left;
     margin-bottom: 15px;
 }
 
@@ -15,7 +15,7 @@
 /* Estilo para los enlaces */
 .nav-link {
     text-decoration: none;
-    color: #631277;
+    color: #771212;
     /* Color inicial del texto */
     font-family: Arial, sans-serif;
     /* Cambia la fuente según tus preferencias */
@@ -27,5 +27,5 @@
 
 /* Cambia el color del texto al pasar el cursor sobre el enlace */
 .nav-link:hover {
-    color: #e057ec;
+    color: #ec5757;
 }
